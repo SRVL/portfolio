@@ -1,7 +1,5 @@
-# Software Engineer & Data Analyst
+# Software engineering projects
 
-### Education
+# Data Analysis projects
 
-### Work Experience 
-
-### Projects
+# Just for fun!
