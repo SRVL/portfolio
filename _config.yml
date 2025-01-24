@@ -1,5 +1,5 @@
 title: Skye Wright
-![](/assets/img/pfp.jpg)
+logo: /assets/img/pfp.jpg
 description: text below img
 show_downloads: true
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
