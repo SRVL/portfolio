@@ -1,5 +1,5 @@
-# Software engineering projects
+# Software Engineering
 
-# Data Analysis projects
+# Data Analysis 
 
-# Just for fun!
+# Experiments
